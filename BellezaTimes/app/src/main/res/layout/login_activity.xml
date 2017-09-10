@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/myColor">
+
+    <TextView
+        android:text="Login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:layout_marginTop="36dp"
+        android:textStyle="normal|bold"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:textAllCaps="true"
+        android:textIsSelectable="false"
+        android:textSize="20sp"
+        android:textColor="@color/colorAccent"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Username"
+        android:drawableLeft="@drawable/ic_username"
+        android:ems="10"
+        android:textStyle="normal|bold"
+        android:textColor="@color/colorAccent"
+        android:fontFamily="casual"
+        android:id="@+id/editText"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="22dp"
+        android:layout_marginLeft="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:drawableLeft="@drawable/ic_password"
+        android:ems="10"
+        android:textStyle="normal|bold"
+        android:textColor="@color/colorAccent"
+        android:fontFamily="casual"
+        android:id="@+id/editText2"
+        android:hint="Password"
+        android:layout_below="@+id/editText"
+        android:layout_marginTop="22dp"
+        android:layout_marginLeft="40dp"
+        android:layout_above="@+id/checkBox" />
+
+    <CheckBox
+        android:text="Show password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:fontFamily="casual"
+        android:textStyle="normal|bold"
+        android:textColor="@color/colorAccent"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/checkBox" />
+
+
+    <TextView
+        android:text="Change Password?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:textStyle="normal|bold"
+        android:textColor="@color/colorAccent"
+        android:fontFamily="casual"
+        android:id="@+id/textView6"
+        android:layout_alignBaseline="@+id/textView3"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_toEndOf="@+id/textView" />
+
+    <Button
+        android:text="Login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button4"
+        android:onClick="checkLogin"
+        android:textStyle="normal|bold"
+        android:fontFamily="casual"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="86dp"
+        />
+
+    <TextView
+        android:text="Forgot Password?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:textStyle="normal|bold"
+        android:fontFamily="casual"
+        android:textColor="@color/colorAccent"
+        android:id="@+id/textView3"
+        android:layout_marginLeft="20dp"
+        android:layout_above="@+id/button4"
+        android:layout_toStartOf="@+id/button4"
+        android:layout_marginBottom="33dp" />
+
+    <!--  <EditText
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:inputType="textEmailAddress"
+          android:hint="Email"
+          android:textStyle="normal|bold"
+          android:fontFamily="casual"
+          android:ems="10"
+          android:id="@+id/editText3"
+          android:layout_below="@+id/button4"
+          android:layout_alignStart="@+id/editText2"
+          android:layout_marginStart="15dp"
+          android:layout_marginTop="24dp" />
+  -->
+
+</RelativeLayout>

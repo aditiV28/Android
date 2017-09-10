@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="style/style.css" type="text/css" rel="stylesheet"> 
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel='stylesheet' type='text/css' href='//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+</head>
+<body>
+    <h2 align="center">Reset Password</h2>
+    <div id="ResetPassId" class="container">
+        
+        <form action="http://localhost/SMS/forgotPass/" method="post" style="border:1px solid black; max-width:50%; margin-left:30%; margin-bottom:5px;">
+            
+            <table class="ResetPassTab">
+                
+                <tr>
+                    <td>Enter username:</td><td><input type="text" name="user_name" class="form-control"/></td>
+                </tr>
+                
+                <!--<tr>
+                    <td>Re-Enter email:</td><td><input type="email" name="email" class="form-control"/></td>
+                </tr>-->
+                
+                 
+                <tr>
+                    <td>Enter new Password:</td><td><input type="password" name="new_password" class="form-control"/></td>
+                </tr>
+                
+                <tr>
+                    <td><input type="Submit" name="Submit" class="btn btn-primary"/></td>
+                </tr>
+            </table>
+            
+        </form>
+    </div>
+</body>
+</html>

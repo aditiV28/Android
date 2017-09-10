@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/myColor">
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Enter title to be deleted"
+        android:textStyle="normal|bold"
+        android:textColor="@color/colorAccent"
+        android:fontFamily="casual"
+        android:ems="10"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/editText10" />
+
+    <Button
+        android:text="Submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText10"
+        android:id="@+id/button7"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="96dp"
+        android:textStyle="normal|bold"
+        android:fontFamily="casual"
+        style="@style/Widget.AppCompat.Button.Colored"
+        />
+</RelativeLayout>

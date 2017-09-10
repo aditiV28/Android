@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BellezaTimes</string>
+    <string name="welcome">New activity on button click</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Button">Button</string>
+    <string name="Logout">Logout</string>
+    <color name="myColor">#FFFFFF</color>
+    <string name="addFedd">Insert Feed</string>
+
+</resources>

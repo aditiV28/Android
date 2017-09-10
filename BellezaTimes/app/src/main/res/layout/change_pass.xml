@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/myColor">
+
+        <TextView
+            android:text="Enter your credentials"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="casual"
+            android:layout_marginTop="36dp"
+            android:textStyle="normal|bold"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:textAllCaps="true"
+            android:textIsSelectable="false"
+            android:textSize="20sp"
+            android:layout_marginLeft="75dp"
+            android:id="@+id/textView5" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Username"
+            android:ems="10"
+            android:layout_below="@+id/textView5"
+            android:drawableLeft="@drawable/ic_username"
+            android:textStyle="normal|bold"
+            android:fontFamily="casual"
+            android:layout_marginTop="22dp"
+            android:layout_marginLeft="40dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:id="@+id/editText5" />
+
+    <!--    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:drawableLeft="@drawable/ic_email"
+            android:textStyle="normal|bold"
+            android:fontFamily="casual"
+            android:layout_marginTop="10dp"
+            android:ems="10"
+            android:hint="Email Address"
+            android:id="@+id/editText6"
+            android:layout_below="@+id/editText5"
+            android:layout_alignStart="@+id/editText5"
+            />  -->
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:drawableLeft="@drawable/ic_password"
+            android:ems="10"
+            android:hint="Old password"
+            android:layout_marginTop="10dp"
+            android:textStyle="normal|bold"
+            android:fontFamily="casual"
+            android:id="@+id/editText7"
+            android:layout_below="@+id/editText5"
+            android:layout_alignStart="@+id/editText5" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:drawableLeft="@drawable/ic_password"
+            android:ems="10"
+            android:hint="New Password"
+            android:textStyle="normal|bold"
+            android:layout_marginTop="10dp"
+            android:fontFamily="casual"
+            android:id="@+id/editText8"
+            android:layout_below="@+id/editText7"
+            android:layout_alignStart="@+id/editText7" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:drawableLeft="@drawable/ic_password"
+            android:ems="10"
+            android:hint="Confirm new password"
+            android:textStyle="normal|bold"
+            android:layout_marginTop="10dp"
+            android:fontFamily="casual"
+            android:id="@+id/editText3"
+            android:layout_below="@+id/editText8"
+            android:layout_alignStart="@+id/editText8"
+             />
+
+
+        <Button
+            android:text="Submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal|bold"
+            android:fontFamily="casual"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:id="@+id/button3"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="51dp" />
+
+        <CheckBox
+            android:text="Show Password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="casual"
+            android:textStyle="normal|bold"
+            android:id="@+id/checkBox2"
+            android:layout_above="@+id/button3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="62dp" />
+
+
+
+
+</RelativeLayout>
