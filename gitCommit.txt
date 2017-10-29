@@ -1,0 +1,875 @@
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~
+$ cd Desktop
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop (master)
+$ cd Android
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop/Android (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/ADMIN/Desktop/Android/.git/
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop/Android (master)
+$ git .add
+git: '.add' is not a git command. See 'git --help'.
+
+Did you mean this?
+        add
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop/Android (master)
+$ git add .
+warning: LF will be replaced by CRLF in BellezaTimes/.idea/compiler.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BellezaTimes/.idea/gradle.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BellezaTimes/.idea/misc.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BellezaTimes/.idea/modules.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BellezaTimes/.idea/runConfigurations.xml                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BellezaTimes/app/src/main/res/drawable/i                                                                                                                c_add_black_24dp.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BellezaTimes/app/src/main/res/drawable/i                                                                                                                c_border_color_black_24dp.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BellezaTimes/app/src/main/res/drawable/i                                                                                                                c_delete_black_24dp.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BellezaTimes/app/src/main/res/drawable/i                                                                                                                c_group_black_24dp.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BellezaTimes/app/src/main/res/drawable/i                                                                                                                c_more_vert_black_24dp.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BellezaTimes/gradle/wrapper/gradle-wrapp                                                                                                                er.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in BellezaTimes/gradlew.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in composer-setup.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in composer.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in composer.lock.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/PHPMailerAutoload.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/class.phpmailer.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/class.phpmaileroauth.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/class.phpmaileroauthgoogle.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/class.pop3.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/class.smtp.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/composer.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/composer.lock.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/DKIM.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/code_generator.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/contents.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/contentsutf8.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/exceptions.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/gmail.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/gmail_xoauth.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/mail.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/mailing_list.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/pop_before_smtp.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/scripts/XRegExp.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/scripts/shAutoloader.                                                                                                                js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/scripts/shBrushPhp.js                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/scripts/shLegacy.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/send_file_upload.phps                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/send_multiple_file_up                                                                                                                load.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/sendmail.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/signed-mail.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/smtp.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/smtp_check.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/smtp_no_auth.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/ssl_options.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shCore.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shCoreDefault.                                                                                                                css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shCoreDjango.c                                                                                                                ss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shCoreEclipse.                                                                                                                css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shCoreEmacs.cs                                                                                                                s.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shCoreFadeToGr                                                                                                                ey.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shCoreMDUltra.                                                                                                                css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shCoreMidnight                                                                                                                .css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shCoreRDark.cs                                                                                                                s.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shThemeAppleSc                                                                                                                ript.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shThemeDefault                                                                                                                .css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shThemeDjango.                                                                                                                css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shThemeEclipse                                                                                                                .css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shThemeEmacs.c                                                                                                                ss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shThemeFadeToG                                                                                                                rey.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shThemeMDUltra                                                                                                                .css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shThemeMidnigh                                                                                                                t.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shThemeRDark.c                                                                                                                ss.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/examples/styles/shThemeVisualS                                                                                                                tudio.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/extras/EasyPeasyICS.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/extras/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/extras/htmlfilter.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/extras/ntlm_sasl_client.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/get_oauth_token.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-am.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-ar.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-az.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-be.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-bg.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-ca.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-ch.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-cs.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-da.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-de.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-el.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-eo.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-es.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-et.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-fa.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-fi.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-fo.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-fr.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-gl.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-he.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-hr.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-hu.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-id.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-it.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-ja.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-ka.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-ko.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-lt.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-lv.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-ms.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-nb.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-nl.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-pl.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-pt.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-pt_br.                                                                                                                php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-ro.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-ru.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-sk.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-sl.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-sr.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-sv.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-tr.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-uk.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-vi.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-zh.php                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in phpmailer/language/phpmailer.lang-zh_cn.                                                                                                                php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/altorouter/altorouter/.travis.yml                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/altorouter/altorouter/AltoRouter.                                                                                                                php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/altorouter/altorouter/AltoRouterT                                                                                                                est.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/altorouter/altorouter/README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/altorouter/altorouter/composer.js                                                                                                                on.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/altorouter/altorouter/examples/ba                                                                                                                sic/.htaccess.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/altorouter/altorouter/examples/ba                                                                                                                sic/index.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/autoload.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/composer/ClassLoader.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/composer/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/composer/autoload_classmap.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/composer/autoload_namespaces.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/composer/autoload_psr4.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/composer/autoload_real.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/composer/autoload_static.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/composer/installed.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/LICENSE.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/PHPMailerAuto                                                                                                                load.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/class.phpmail                                                                                                                er.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/class.phpmail                                                                                                                eroauth.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/class.phpmail                                                                                                                eroauthgoogle.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/class.pop3.ph                                                                                                                p.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/class.smtp.ph                                                                                                                p.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/composer.json                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/composer.lock                                                                                                                .
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/DKIM                                                                                                                .phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/code                                                                                                                _generator.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/cont                                                                                                                ents.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/cont                                                                                                                entsutf8.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/exce                                                                                                                ptions.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/gmai                                                                                                                l.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/gmai                                                                                                                l_xoauth.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/inde                                                                                                                x.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/mail                                                                                                                .phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/mail                                                                                                                ing_list.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/pop_                                                                                                                before_smtp.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/scri                                                                                                                pts/XRegExp.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/scri                                                                                                                pts/shAutoloader.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/scri                                                                                                                pts/shBrushPhp.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/scri                                                                                                                pts/shLegacy.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/send                                                                                                                _file_upload.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/send                                                                                                                _multiple_file_upload.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/send                                                                                                                mail.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/sign                                                                                                                ed-mail.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/smtp                                                                                                                .phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/smtp                                                                                                                _check.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/smtp                                                                                                                _no_auth.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/ssl_                                                                                                                options.phps.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shCore.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shCoreDefault.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shCoreDjango.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shCoreEclipse.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shCoreEmacs.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shCoreFadeToGrey.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shCoreMDUltra.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shCoreMidnight.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shCoreRDark.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shThemeAppleScript.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shThemeDefault.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shThemeDjango.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shThemeEclipse.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shThemeEmacs.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shThemeFadeToGrey.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shThemeMDUltra.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shThemeMidnight.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shThemeRDark.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/examples/styl                                                                                                                es/shThemeVisualStudio.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/extras/EasyPe                                                                                                                asyICS.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/extras/README                                                                                                                .md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/extras/htmlfi                                                                                                                lter.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/extras/ntlm_s                                                                                                                asl_client.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/get_oauth_tok                                                                                                                en.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-am.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-ar.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-az.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-be.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-bg.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-ca.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-ch.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-cs.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-da.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-de.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-el.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-eo.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-es.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-et.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-fa.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-fi.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-fo.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-fr.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-gl.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-he.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-hr.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-hu.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-id.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-it.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-ja.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-ka.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-ko.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-lt.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-lv.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-ms.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-nb.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-nl.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-pl.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-pt.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-pt_br.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-ro.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-ru.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-sk.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-sl.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-sr.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-sv.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-tr.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-uk.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-vi.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-zh.php.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in vendor/phpmailer/phpmailer/language/phpm                                                                                                                ailer.lang-zh_cn.php.
+The file will have its original line endings in your working directory.
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop/Android (master)
+$ git commit -m "First commit"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'ADMIN@DESKTOP-O4HEN97.(none)')
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop/Android (master)
+$ git config --global user.email "aditi.vasekar2009@gmail.com"
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop/Android (master)
+$ git config --global user.name "aditiV28"
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop/Android (master)
+$ git commit -m "First commit"
+[master (root-commit) 088faf5] First commit
+ 336 files changed, 43103 insertions(+)
+ create mode 100644 .htaccess
+ create mode 100644 BellezaTimes/.gitignore
+ create mode 100644 BellezaTimes/.idea/compiler.xml
+ create mode 100644 BellezaTimes/.idea/copyright/profiles_settings.xml
+ create mode 100644 BellezaTimes/.idea/gradle.xml
+ create mode 100644 BellezaTimes/.idea/misc.xml
+ create mode 100644 BellezaTimes/.idea/modules.xml
+ create mode 100644 BellezaTimes/.idea/runConfigurations.xml
+ create mode 100644 BellezaTimes/Icon_4.PNG
+ create mode 100644 BellezaTimes/app/.gitignore
+ create mode 100644 BellezaTimes/app/build.gradle
+ create mode 100644 BellezaTimes/app/proguard-rules.pro
+ create mode 100644 BellezaTimes/app/src/androidTest/java/com/example/admin/bell                                                                                                                ezatimes/ExampleInstrumentedTest.java
+ create mode 100644 BellezaTimes/app/src/main/AndroidManifest.xml
+ create mode 100644 BellezaTimes/app/src/main/ic_launcher-web.png
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/AdminFeedPage.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/ChangePass.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/DeleteFeed.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/DetailFeed.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/FeedPage.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/ForgotPass.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/InsertFeed.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/LoginActivity.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/MainActivity.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/MyArrayAdapter.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/MyData.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/SessionManager.java
+ create mode 100644 BellezaTimes/app/src/main/java/com/example/admin/bellezatime                                                                                                                s/SplashScreen.java
+ create mode 100644 BellezaTimes/app/src/main/res/anim/fab_close.xml
+ create mode 100644 BellezaTimes/app/src/main/res/anim/fab_open.xml
+ create mode 100644 BellezaTimes/app/src/main/res/anim/rotate_backward.xml
+ create mode 100644 BellezaTimes/app/src/main/res/anim/rotate_forward.xml
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-hdpi/ic_email.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-hdpi/ic_fab.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-hdpi/ic_password.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-hdpi/ic_show_password                                                                                                                .png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-hdpi/ic_username.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-mdpi/ic_email.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-mdpi/ic_fab.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-mdpi/ic_password.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-mdpi/ic_show_password                                                                                                                .png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-mdpi/ic_username.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-xhdpi/ic_email.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-xhdpi/ic_fab.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-xhdpi/ic_password.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-xhdpi/ic_show_passwor                                                                                                                d.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-xhdpi/ic_username.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-xxhdpi/ic_email.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-xxhdpi/ic_fab.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-xxhdpi/ic_password.pn                                                                                                                g
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-xxhdpi/ic_show_passwo                                                                                                                rd.png
+ create mode 100644 BellezaTimes/app/src/main/res/drawable-xxhdpi/ic_username.pn                                                                                                                g
+ create mode 100644 BellezaTimes/app/src/main/res/drawable/ic_add_black_24dp.xml
+ create mode 100644 BellezaTimes/app/src/main/res/drawable/ic_border_color_black                                                                                                                _24dp.xml
+ create mode 100644 BellezaTimes/app/src/main/res/drawable/ic_delete_black_24dp.                                                                                                                xml
+ create mode 100644 BellezaTimes/app/src/main/res/drawable/ic_group_black_24dp.x                                                                                                                ml
+ create mode 100644 BellezaTimes/app/src/main/res/drawable/ic_more_vert_black_24                                                                                                                dp.xml
+ create mode 100644 BellezaTimes/app/src/main/res/layout/activity_main.xml
+ create mode 100644 BellezaTimes/app/src/main/res/layout/admin_feed_page.xml
+ create mode 100644 BellezaTimes/app/src/main/res/layout/change_pass.xml
+ create mode 100644 BellezaTimes/app/src/main/res/layout/delete_feed.xml
+ create mode 100644 BellezaTimes/app/src/main/res/layout/detail_feed.xml
+ create mode 100644 BellezaTimes/app/src/main/res/layout/feed_activity.xml
+ create mode 100644 BellezaTimes/app/src/main/res/layout/forgot_pass.xml
+ create mode 100644 BellezaTimes/app/src/main/res/layout/insert_feed.xml
+ create mode 100644 BellezaTimes/app/src/main/res/layout/list_text_views.xml
+ create mode 100644 BellezaTimes/app/src/main/res/layout/login_activity.xml
+ create mode 100644 BellezaTimes/app/src/main/res/layout/splash_screen.xml
+ create mode 100644 BellezaTimes/app/src/main/res/menu/menu_items.xml
+ create mode 100644 BellezaTimes/app/src/main/res/mipmap-hdpi/ic_launcher.png
+ create mode 100644 BellezaTimes/app/src/main/res/mipmap-mdpi/ic_launcher.png
+ create mode 100644 BellezaTimes/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+ create mode 100644 BellezaTimes/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+ create mode 100644 BellezaTimes/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+ create mode 100644 BellezaTimes/app/src/main/res/values-v21/styles.xml
+ create mode 100644 BellezaTimes/app/src/main/res/values-w820dp/dimens.xml
+ create mode 100644 BellezaTimes/app/src/main/res/values/colors.xml
+ create mode 100644 BellezaTimes/app/src/main/res/values/dimens.xml
+ create mode 100644 BellezaTimes/app/src/main/res/values/strings.xml
+ create mode 100644 BellezaTimes/app/src/main/res/values/styles.xml
+ create mode 100644 BellezaTimes/app/src/test/java/com/example/admin/bellezatime                                                                                                                s/ExampleUnitTest.java
+ create mode 100644 BellezaTimes/build.gradle
+ create mode 100644 BellezaTimes/email.png
+ create mode 100644 BellezaTimes/fab.png
+ create mode 100644 BellezaTimes/gradle.properties
+ create mode 100644 BellezaTimes/gradle/wrapper/gradle-wrapper.jar
+ create mode 100644 BellezaTimes/gradle/wrapper/gradle-wrapper.properties
+ create mode 100644 BellezaTimes/gradlew
+ create mode 100644 BellezaTimes/gradlew.bat
+ create mode 100644 BellezaTimes/password.png
+ create mode 100644 BellezaTimes/settings.gradle
+ create mode 100644 BellezaTimes/show_password.png
+ create mode 100644 BellezaTimes/username.png
+ create mode 100644 class.news.php
+ create mode 100644 class.user.php
+ create mode 100644 composer-setup.php
+ create mode 100644 composer.json
+ create mode 100644 composer.lock
+ create mode 100644 composer.phar
+ create mode 100644 connect.php
+ create mode 100644 forgot.php
+ create mode 100644 index.php
+ create mode 100644 login.sql
+ create mode 100644 phpmailer/LICENSE
+ create mode 100644 phpmailer/PHPMailerAutoload.php
+ create mode 100644 phpmailer/VERSION
+ create mode 100644 phpmailer/class.phpmailer.php
+ create mode 100644 phpmailer/class.phpmaileroauth.php
+ create mode 100644 phpmailer/class.phpmaileroauthgoogle.php
+ create mode 100644 phpmailer/class.pop3.php
+ create mode 100644 phpmailer/class.smtp.php
+ create mode 100644 phpmailer/composer.json
+ create mode 100644 phpmailer/composer.lock
+ create mode 100644 phpmailer/examples/DKIM.phps
+ create mode 100644 phpmailer/examples/code_generator.phps
+ create mode 100644 phpmailer/examples/contents.html
+ create mode 100644 phpmailer/examples/contentsutf8.html
+ create mode 100644 phpmailer/examples/exceptions.phps
+ create mode 100644 phpmailer/examples/gmail.phps
+ create mode 100644 phpmailer/examples/gmail_xoauth.phps
+ create mode 100644 phpmailer/examples/images/phpmailer.png
+ create mode 100644 phpmailer/examples/images/phpmailer_mini.png
+ create mode 100644 phpmailer/examples/index.html
+ create mode 100644 phpmailer/examples/mail.phps
+ create mode 100644 phpmailer/examples/mailing_list.phps
+ create mode 100644 phpmailer/examples/pop_before_smtp.phps
+ create mode 100644 phpmailer/examples/scripts/XRegExp.js
+ create mode 100644 phpmailer/examples/scripts/shAutoloader.js
+ create mode 100644 phpmailer/examples/scripts/shBrushPhp.js
+ create mode 100644 phpmailer/examples/scripts/shCore.js
+ create mode 100644 phpmailer/examples/scripts/shLegacy.js
+ create mode 100644 phpmailer/examples/send_file_upload.phps
+ create mode 100644 phpmailer/examples/send_multiple_file_upload.phps
+ create mode 100644 phpmailer/examples/sendmail.phps
+ create mode 100644 phpmailer/examples/signed-mail.phps
+ create mode 100644 phpmailer/examples/smtp.phps
+ create mode 100644 phpmailer/examples/smtp_check.phps
+ create mode 100644 phpmailer/examples/smtp_no_auth.phps
+ create mode 100644 phpmailer/examples/ssl_options.phps
+ create mode 100644 phpmailer/examples/styles/shCore.css
+ create mode 100644 phpmailer/examples/styles/shCoreDefault.css
+ create mode 100644 phpmailer/examples/styles/shCoreDjango.css
+ create mode 100644 phpmailer/examples/styles/shCoreEclipse.css
+ create mode 100644 phpmailer/examples/styles/shCoreEmacs.css
+ create mode 100644 phpmailer/examples/styles/shCoreFadeToGrey.css
+ create mode 100644 phpmailer/examples/styles/shCoreMDUltra.css
+ create mode 100644 phpmailer/examples/styles/shCoreMidnight.css
+ create mode 100644 phpmailer/examples/styles/shCoreRDark.css
+ create mode 100644 phpmailer/examples/styles/shThemeAppleScript.css
+ create mode 100644 phpmailer/examples/styles/shThemeDefault.css
+ create mode 100644 phpmailer/examples/styles/shThemeDjango.css
+ create mode 100644 phpmailer/examples/styles/shThemeEclipse.css
+ create mode 100644 phpmailer/examples/styles/shThemeEmacs.css
+ create mode 100644 phpmailer/examples/styles/shThemeFadeToGrey.css
+ create mode 100644 phpmailer/examples/styles/shThemeMDUltra.css
+ create mode 100644 phpmailer/examples/styles/shThemeMidnight.css
+ create mode 100644 phpmailer/examples/styles/shThemeRDark.css
+ create mode 100644 phpmailer/examples/styles/shThemeVisualStudio.css
+ create mode 100644 phpmailer/examples/styles/wrapping.png
+ create mode 100644 phpmailer/extras/EasyPeasyICS.php
+ create mode 100644 phpmailer/extras/README.md
+ create mode 100644 phpmailer/extras/htmlfilter.php
+ create mode 100644 phpmailer/extras/ntlm_sasl_client.php
+ create mode 100644 phpmailer/get_oauth_token.php
+ create mode 100644 phpmailer/language/phpmailer.lang-am.php
+ create mode 100644 phpmailer/language/phpmailer.lang-ar.php
+ create mode 100644 phpmailer/language/phpmailer.lang-az.php
+ create mode 100644 phpmailer/language/phpmailer.lang-be.php
+ create mode 100644 phpmailer/language/phpmailer.lang-bg.php
+ create mode 100644 phpmailer/language/phpmailer.lang-ca.php
+ create mode 100644 phpmailer/language/phpmailer.lang-ch.php
+ create mode 100644 phpmailer/language/phpmailer.lang-cs.php
+ create mode 100644 phpmailer/language/phpmailer.lang-da.php
+ create mode 100644 phpmailer/language/phpmailer.lang-de.php
+ create mode 100644 phpmailer/language/phpmailer.lang-el.php
+ create mode 100644 phpmailer/language/phpmailer.lang-eo.php
+ create mode 100644 phpmailer/language/phpmailer.lang-es.php
+ create mode 100644 phpmailer/language/phpmailer.lang-et.php
+ create mode 100644 phpmailer/language/phpmailer.lang-fa.php
+ create mode 100644 phpmailer/language/phpmailer.lang-fi.php
+ create mode 100644 phpmailer/language/phpmailer.lang-fo.php
+ create mode 100644 phpmailer/language/phpmailer.lang-fr.php
+ create mode 100644 phpmailer/language/phpmailer.lang-gl.php
+ create mode 100644 phpmailer/language/phpmailer.lang-he.php
+ create mode 100644 phpmailer/language/phpmailer.lang-hr.php
+ create mode 100644 phpmailer/language/phpmailer.lang-hu.php
+ create mode 100644 phpmailer/language/phpmailer.lang-id.php
+ create mode 100644 phpmailer/language/phpmailer.lang-it.php
+ create mode 100644 phpmailer/language/phpmailer.lang-ja.php
+ create mode 100644 phpmailer/language/phpmailer.lang-ka.php
+ create mode 100644 phpmailer/language/phpmailer.lang-ko.php
+ create mode 100644 phpmailer/language/phpmailer.lang-lt.php
+ create mode 100644 phpmailer/language/phpmailer.lang-lv.php
+ create mode 100644 phpmailer/language/phpmailer.lang-ms.php
+ create mode 100644 phpmailer/language/phpmailer.lang-nb.php
+ create mode 100644 phpmailer/language/phpmailer.lang-nl.php
+ create mode 100644 phpmailer/language/phpmailer.lang-pl.php
+ create mode 100644 phpmailer/language/phpmailer.lang-pt.php
+ create mode 100644 phpmailer/language/phpmailer.lang-pt_br.php
+ create mode 100644 phpmailer/language/phpmailer.lang-ro.php
+ create mode 100644 phpmailer/language/phpmailer.lang-ru.php
+ create mode 100644 phpmailer/language/phpmailer.lang-sk.php
+ create mode 100644 phpmailer/language/phpmailer.lang-sl.php
+ create mode 100644 phpmailer/language/phpmailer.lang-sr.php
+ create mode 100644 phpmailer/language/phpmailer.lang-sv.php
+ create mode 100644 phpmailer/language/phpmailer.lang-tr.php
+ create mode 100644 phpmailer/language/phpmailer.lang-uk.php
+ create mode 100644 phpmailer/language/phpmailer.lang-vi.php
+ create mode 100644 phpmailer/language/phpmailer.lang-zh.php
+ create mode 100644 phpmailer/language/phpmailer.lang-zh_cn.php
+ create mode 100644 reset.html
+ create mode 100644 resetPass.html
+ create mode 100644 style.css
+ create mode 100644 vendor/altorouter/altorouter/.travis.yml
+ create mode 100644 vendor/altorouter/altorouter/AltoRouter.php
+ create mode 100644 vendor/altorouter/altorouter/AltoRouterTest.php
+ create mode 100644 vendor/altorouter/altorouter/README.md
+ create mode 100644 vendor/altorouter/altorouter/composer.json
+ create mode 100644 vendor/altorouter/altorouter/examples/basic/.htaccess
+ create mode 100644 vendor/altorouter/altorouter/examples/basic/index.php
+ create mode 100644 vendor/autoload.php
+ create mode 100644 vendor/composer/ClassLoader.php
+ create mode 100644 vendor/composer/LICENSE
+ create mode 100644 vendor/composer/autoload_classmap.php
+ create mode 100644 vendor/composer/autoload_namespaces.php
+ create mode 100644 vendor/composer/autoload_psr4.php
+ create mode 100644 vendor/composer/autoload_real.php
+ create mode 100644 vendor/composer/autoload_static.php
+ create mode 100644 vendor/composer/installed.json
+ create mode 100644 vendor/phpmailer/phpmailer/LICENSE
+ create mode 100644 vendor/phpmailer/phpmailer/PHPMailerAutoload.php
+ create mode 100644 vendor/phpmailer/phpmailer/VERSION
+ create mode 100644 vendor/phpmailer/phpmailer/class.phpmailer.php
+ create mode 100644 vendor/phpmailer/phpmailer/class.phpmaileroauth.php
+ create mode 100644 vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php
+ create mode 100644 vendor/phpmailer/phpmailer/class.pop3.php
+ create mode 100644 vendor/phpmailer/phpmailer/class.smtp.php
+ create mode 100644 vendor/phpmailer/phpmailer/composer.json
+ create mode 100644 vendor/phpmailer/phpmailer/composer.lock
+ create mode 100644 vendor/phpmailer/phpmailer/examples/DKIM.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/code_generator.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/contents.html
+ create mode 100644 vendor/phpmailer/phpmailer/examples/contentsutf8.html
+ create mode 100644 vendor/phpmailer/phpmailer/examples/exceptions.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/gmail.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/gmail_xoauth.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/images/phpmailer.png
+ create mode 100644 vendor/phpmailer/phpmailer/examples/images/phpmailer_mini.pn                                                                                                                g
+ create mode 100644 vendor/phpmailer/phpmailer/examples/index.html
+ create mode 100644 vendor/phpmailer/phpmailer/examples/mail.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/mailing_list.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/pop_before_smtp.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/scripts/XRegExp.js
+ create mode 100644 vendor/phpmailer/phpmailer/examples/scripts/shAutoloader.js
+ create mode 100644 vendor/phpmailer/phpmailer/examples/scripts/shBrushPhp.js
+ create mode 100644 vendor/phpmailer/phpmailer/examples/scripts/shCore.js
+ create mode 100644 vendor/phpmailer/phpmailer/examples/scripts/shLegacy.js
+ create mode 100644 vendor/phpmailer/phpmailer/examples/send_file_upload.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/send_multiple_file_uploa                                                                                                                d.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/sendmail.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/signed-mail.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/smtp.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/smtp_check.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/ssl_options.phps
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shCore.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shCoreDefault.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shCoreDjango.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shCoreEmacs.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shCoreFadeToGrey.                                                                                                                css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shCoreMDUltra.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shCoreMidnight.cs                                                                                                                s
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shCoreRDark.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shThemeAppleScrip                                                                                                                t.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shThemeDefault.cs                                                                                                                s
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shThemeDjango.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shThemeEclipse.cs                                                                                                                s
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shThemeEmacs.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shThemeFadeToGrey                                                                                                                .css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shThemeMDUltra.cs                                                                                                                s
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shThemeMidnight.c                                                                                                                ss
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shThemeRDark.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/shThemeVisualStud                                                                                                                io.css
+ create mode 100644 vendor/phpmailer/phpmailer/examples/styles/wrapping.png
+ create mode 100644 vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php
+ create mode 100644 vendor/phpmailer/phpmailer/extras/README.md
+ create mode 100644 vendor/phpmailer/phpmailer/extras/htmlfilter.php
+ create mode 100644 vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php
+ create mode 100644 vendor/phpmailer/phpmailer/get_oauth_token.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-cs.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-da.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-nb.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-sv.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php
+ create mode 100644 vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop/Android (master)
+$ git remote add origin https://github.com/aditiV28/Android.git
+fatal: remote origin already exists.
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop/Android (master)
+$ git remote -v
+origin  https://github.com/aditiV28/Android.git (fetch)
+origin  https://github.com/aditiV28/Android.git (push)
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop/Android (master)
+$ git push origin master
+Counting objects: 287, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (255/255), done.
+Writing objects: 100% (287/287), 975.36 KiB | 0 bytes/s, done.
+Total 287 (delta 68), reused 0 (delta 0)
+remote: Resolving deltas: 100% (68/68), done.
+To https://github.com/aditiV28/Android.git
+ * [new branch]      master -> master
+
+ADMIN@DESKTOP-O4HEN97 MINGW64 ~/Desktop/Android (master)
+$
